@@ -10,7 +10,7 @@ This app comes bundled with multify.exe and the correct DLLs as well as a noob p
 # 🖍 Usage
 
 ## 💻 Windows
-To use this tool simply run the **Phasefile.bat** file after moving your DNA files into the project.
+To use this tool simply run the **model-tool.bat** file after moving your BAM or EGG files into the project.
 
 ## 🐧 Linux
 TBA
