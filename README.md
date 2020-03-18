@@ -1,11 +1,11 @@
-# Phasefile Tool
+# Model Tools
 
-# ❓ What is Phasefile Tool
-Phasefile Tool is a simple script to help automate the compilation and decompilation of Panda3D MultiFiles
+# ❓ What is Model Tools
+Model Tools is a simple script to help automate the compilation and decompilation of Panda3D's Model Files.
 
-This app is really useful for people to make "Toontown Content Packs" without the full SDK.
+This app is really useful for people to view models without the full SDK.
 
-This app comes bundled with multify.exe and the correct DLLs as well as a noob proof batch script for little to no confusion.
+This app comes bundled with bam2egg.exe, egg2bam.exe and the correct DLLs as well as a noob proof batch script for little to no confusion.
 
 # 🖍 Usage
 
